@@ -2,7 +2,6 @@
 % Range of initial points: -5 <= xj <= 5 , j=1,2 
 % Global minima: (x1,x2)=(0,0)
 % f(x1,x2)=0
-% Coded by: Ali R. Alroomi | Last Update: 24 March 2015 | www.al-roomi.org
 
 clear
 clc
